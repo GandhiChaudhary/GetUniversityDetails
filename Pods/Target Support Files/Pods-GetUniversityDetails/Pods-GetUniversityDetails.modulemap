@@ -1,0 +1,6 @@
+framework module Pods_GetUniversityDetails {
+  umbrella header "Pods-GetUniversityDetails-umbrella.h"
+
+  export *
+  module * { export * }
+}
